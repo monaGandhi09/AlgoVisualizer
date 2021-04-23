@@ -1,13 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### ALGO VISUALIZER
+# Sorting Viusalizer
+This project mainly consists of two profiles Sorting Visualizer and Pathfinding Visualizer.Sorting Visualizer makes it easy for us to understand the working of different sorting methods.
+# PathFinding Visualizer
+Pathfinding Visualizer is a useful efficient way to understand pathfinding problems using Mathematical Algorithms such as Dijkstra Algorithm, BFS Algorithm and DFS Algorithm.
